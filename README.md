@@ -24,7 +24,7 @@
 <!-- Animated Wave Section Divider -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Hi there, I\'m Frederick Abraham 👋
+# Hi there, I'm Frederick Abraham 👋
 
 Founder of BraHms, a parent company dedicated to fostering innovation through ventures like Invovee, Rugsnitch, and DevDia. I am a passionate technologist with expertise in Python, TypeScript, and web development, committed to building impactful and scalable solutions. My work focuses on leveraging cutting-edge technologies to solve real-world problems and drive progress.
 
@@ -42,10 +42,10 @@ Here are some of the technologies I frequently work with:
 
 ## 📊 GitHub Stats
 
-[![Frederick\'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=frederickabrah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frederickabrah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickabrah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let%27s+connect+and+build+together!;Open+to+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+connect+and+build+together!;Open+to+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ⭐️ From [frederickabrah](https://github.com/frederickabrah) with ❤️
